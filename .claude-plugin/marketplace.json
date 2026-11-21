@@ -1,0 +1,13 @@
+{
+  "name": "raphaland",
+  "owner": {
+    "name": "Raphael Amorim"
+  },
+  "plugins": [
+    {
+      "name": "nemo",
+      "source": "./",
+      "description": "Control Nemo terminals, panes and agents from Claude Code"
+    }
+  ]
+}
